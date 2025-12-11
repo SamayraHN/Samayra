@@ -6,7 +6,7 @@ I'm a bilingual postgraduate student passionate about the intersection of law, t
 - 🎓 **LLB Law with International Business | 2:1**  
 - 📚 **LLM in Artificial Intelligence, Digital and Cyber Law | Merit **  
   - My dissertation focused on the legal challenges of **Deepfakes**
-- 💻 On a journey to become a **self-taught ethical hacker**, currently building my skills through platforms like **TryHackMe** and **Security Blue Team**
+- 💻 On a journey currently building my foundational skills through platforms like **TryHackMe** **DataCamp** **Security Blue Team**
 - 🎯 Seeking **graduate opportunities in SOC roles to contribute to frontline cyber defence and build my career in cybersecurity
 - 🌐 Fluent in **English** and **Spanish**, and currently exploring **Italian**, **French**, and **Korean** 
 
@@ -19,6 +19,7 @@ I'm a bilingual postgraduate student passionate about the intersection of law, t
 - Network Security, SIEM, OSINT, Incident Response
 - Python
 - AI and Machine Learning fundamentals not just legal
+- Brainstorming projects to showcase my skills
 
 ## 📫 Let’s Connect!
 - [LinkedIn]([(https://www.linkedin.com/in/samayrahn/))  
